@@ -93,29 +93,10 @@ checkBalance() - Shows the current balance
 displayDetails() - Displays account info
 
 📷 Screenshots (Sample Output)
-===== BANK ACCOUNT MANAGEMENT SYSTEM =====
-1. Create Account
-2. Deposit Money
-3. Withdraw Money
-4. Check Balance
-5. Display Account Details
-6. Exit
-Enter your choice: 1
+<img width="456" height="278" alt="image" src="https://github.com/user-attachments/assets/30d4b5a4-b2be-4f22-aec3-44da3ef4cfac" />
+<img width="422" height="261" alt="image" src="https://github.com/user-attachments/assets/e7829673-7a48-4c68-a705-c59372c6a5ca" />
+<img width="462" height="265" alt="image" src="https://github.com/user-attachments/assets/1edcdf91-dd89-40fc-9c0f-db33c980bae3" />
 
-Enter Account Number: 1024
-Enter Account Holder Name: Rahul
-Account created successfully!
-
-Enter amount to deposit: 500
-Successfully deposited ₹500.00
-
-Enter amount to withdraw: 200
-Successfully withdrawn ₹200.00
-
-===== ACCOUNT DETAILS =====
-Account Number : 1024
-Account Holder : Rahul
-Current Balance: ₹300.00
 
 🚀 Future Enhancements
 
