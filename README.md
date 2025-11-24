@@ -68,7 +68,6 @@ bank.exe
 📘 How It Works
 
 Once the program starts, it displays a menu:
-
 <img width="495" height="416" alt="image" src="https://github.com/user-attachments/assets/b15d5cc1-a97d-4db3-872c-f96c880232a3" />
 
 The user must first create an account, after which deposit, withdrawal, and balance-checking options become enabled.
