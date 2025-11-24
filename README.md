@@ -97,6 +97,8 @@ displayDetails() - Displays account info
 <img width="422" height="261" alt="image" src="https://github.com/user-attachments/assets/e7829673-7a48-4c68-a705-c59372c6a5ca" />
 <img width="462" height="265" alt="image" src="https://github.com/user-attachments/assets/1edcdf91-dd89-40fc-9c0f-db33c980bae3" />
 <img width="472" height="241" alt="Screenshot 2025-11-24 113633" src="https://github.com/user-attachments/assets/868a35fd-b21e-4ebb-bd6e-508b1799b969" />
+<img width="476" height="304" alt="Screenshot 2025-11-24 113730" src="https://github.com/user-attachments/assets/c9e45322-4b27-45b3-8106-b3bde8ef52e0" />
+<img width="474" height="234" alt="Screenshot 2025-11-24 113815" src="https://github.com/user-attachments/assets/7d850a15-3de5-4472-b58d-9139eef23314" />
 
 
 🚀 Future Enhancements
