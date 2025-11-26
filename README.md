@@ -1,18 +1,18 @@
 # Bank-account-management-system
 
- Table of Contents
+## **Table of Contents**
 
- Features
+## ** Features**
 
- Technologies Used
+## ** Technologies Used**
 
- Project Structure
+## ** Project Structure**
 
- Getting Started
+## ** Getting Started**
 
-1️ Compilation
+## **1️ Compilation**
 
-2️ Running the Program
+## **2️ Running the Program**
 
  How It Works
 
@@ -26,11 +26,11 @@
 
  Contributing
 
- Abstract
+## ** Abstract**
 
  This C program is a simple bank account management system that lets a user create an account, deposit and withdraw money, check the balance, and view account   details. It uses a structure to store account information and a menu-driven interface for user interaction.
  
- Features
+## ** Features**
 
 => Create a new bank account
 => Deposit money
@@ -39,7 +39,7 @@
 => Display full account details
 => Simple and user-friendly menu-based interface
 
- Technologies Used
+## ** Technologies Used**
 
 C Language
 
@@ -51,15 +51,15 @@ Standard Libraries (stdio.h, string.h)
 ├── bank.c         # Main source code
 ├── README.md      # Documentation
 
- Getting Started
-1️ Compilation
+## ** Getting Started**
+### **1️ Compilation**
 Using GCC (Linux / Mac):
 gcc bank.c -o bank
 
 Using MinGW (Windows):
 gcc bank.c -o bank.exe
 
-2️ Running the Program
+### **2️ Running the Program**
 
 Linux / Mac:
 
@@ -77,7 +77,7 @@ Once the program starts, it displays a menu:
 
 The user must first create an account, after which deposit, withdrawal, and balance-checking options become enabled.
 
- Code Overview
+### ** Code Overview**
 Structure to store account details
 struct Account {
     int accountNumber;
@@ -85,7 +85,7 @@ struct Account {
     float balance;
 };
 
-Key Functions
+## **Key Functions**
 
 createAccount() - Creates a new account with user input
 
@@ -97,7 +97,7 @@ checkBalance() - Shows the current balance
 
 displayDetails() - Displays account info
 
- Screenshots (Sample Output)
+## ** Screenshots (Sample Output)**
 <img width="456" height="278" alt="image" src="https://github.com/user-attachments/assets/30d4b5a4-b2be-4f22-aec3-44da3ef4cfac" />
 <img width="422" height="261" alt="image" src="https://github.com/user-attachments/assets/e7829673-7a48-4c68-a705-c59372c6a5ca" />
 <img width="462" height="265" alt="image" src="https://github.com/user-attachments/assets/1edcdf91-dd89-40fc-9c0f-db33c980bae3" />
@@ -106,7 +106,7 @@ displayDetails() - Displays account info
 <img width="474" height="234" alt="Screenshot 2025-11-24 113815" src="https://github.com/user-attachments/assets/7d850a15-3de5-4472-b58d-9139eef23314" />
 
 
- Future Enhancements
+## ** Future Enhancements**
 
 If you plan to expand this project, here are some upgrade ideas:
 
