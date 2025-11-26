@@ -1,40 +1,41 @@
 # Bank-account-management-system
-📑 Table of Contents
 
-📌 Features
+ Table of Contents
 
-🛠️ Technologies Used
+ Features
 
-📂 Project Structure
+ Technologies Used
 
-🚀 Getting Started
+ Project Structure
 
-1️⃣ Compilation
+ Getting Started
 
-2️⃣ Running the Program
+1️ Compilation
 
-📘 How It Works
+2️ Running the Program
 
-🧩 Code Overview
+ How It Works
 
-📷 Screenshots (Sample Output)
+ Code Overview
 
-🚀 Future Enhancements
+ Screenshots (Sample Output)
 
-📄 License
+ Future Enhancements
 
-🤝 Contributing
+ License
 
-📌 Features
+ Contributing
 
-✔ Create a new bank account
-✔ Deposit money
-✔ Withdraw money (with safety checks)
-✔ Check account balance
-✔ Display full account details
-✔ Simple and user-friendly menu-based interface
+ Features
 
-🛠️ Technologies Used
+=> Create a new bank account
+=> Deposit money
+=> Withdraw money (with safety checks)
+=> Check account balance
+=> Display full account details
+=> Simple and user-friendly menu-based interface
+
+ Technologies Used
 
 C Language
 
@@ -42,19 +43,19 @@ GCC / Clang Compiler
 
 Standard Libraries (stdio.h, string.h)
 
-📂 Project Structure
+ Project Structure
 ├── bank.c         # Main source code
 ├── README.md      # Documentation
 
-🚀 Getting Started
-1️⃣ Compilation
+ Getting Started
+1️ Compilation
 Using GCC (Linux / Mac):
 gcc bank.c -o bank
 
 Using MinGW (Windows):
 gcc bank.c -o bank.exe
 
-2️⃣ Running the Program
+2️ Running the Program
 
 Linux / Mac:
 
@@ -65,14 +66,14 @@ Windows:
 
 bank.exe
 
-📘 How It Works
+ How It Works
 
 Once the program starts, it displays a menu:
 <img width="495" height="416" alt="image" src="https://github.com/user-attachments/assets/b15d5cc1-a97d-4db3-872c-f96c880232a3" />
 
 The user must first create an account, after which deposit, withdrawal, and balance-checking options become enabled.
 
-🧩 Code Overview
+ Code Overview
 Structure to store account details
 struct Account {
     int accountNumber;
@@ -92,7 +93,7 @@ checkBalance() - Shows the current balance
 
 displayDetails() - Displays account info
 
-📷 Screenshots (Sample Output)
+ Screenshots (Sample Output)
 <img width="456" height="278" alt="image" src="https://github.com/user-attachments/assets/30d4b5a4-b2be-4f22-aec3-44da3ef4cfac" />
 <img width="422" height="261" alt="image" src="https://github.com/user-attachments/assets/e7829673-7a48-4c68-a705-c59372c6a5ca" />
 <img width="462" height="265" alt="image" src="https://github.com/user-attachments/assets/1edcdf91-dd89-40fc-9c0f-db33c980bae3" />
@@ -101,7 +102,7 @@ displayDetails() - Displays account info
 <img width="474" height="234" alt="Screenshot 2025-11-24 113815" src="https://github.com/user-attachments/assets/7d850a15-3de5-4472-b58d-9139eef23314" />
 
 
-🚀 Future Enhancements
+ Future Enhancements
 
 If you plan to expand this project, here are some upgrade ideas:
 
@@ -111,11 +112,4 @@ If you plan to expand this project, here are some upgrade ideas:
 🔹 Add interest calculation
 🔹 GUI version (GTK / Qt)
 🔹 Error handling for invalid inputs
-📄 License
 
-This project is licensed under the MIT License — free to use and modify.
-
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to submit a Pull Request or open an Issue.
