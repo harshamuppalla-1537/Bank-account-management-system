@@ -2,17 +2,17 @@
 
 ## Table of Contents
 
-## ** Features**
+##  Features
 
-## ** Technologies Used**
+##  Technologies Used
 
-## ** Project Structure**
+##  Project Structure
 
-## ** Getting Started**
+##  Getting Started
 
-## **1️ Compilation**
+## 1️ Compilation
 
-## **2️ Running the Program**
+## 2️ Running the Program
 
  How It Works
 
