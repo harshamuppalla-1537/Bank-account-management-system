@@ -26,6 +26,10 @@
 
  Contributing
 
+ Abstract
+
+ This C program is a simple bank account management system that lets a user create an account, deposit and withdraw money, check the balance, and view account   details. It uses a structure to store account information and a menu-driven interface for user interaction.
+ 
  Features
 
 => Create a new bank account
