@@ -1,6 +1,6 @@
 # Bank-account-management-system
 
-## **Table of Contents**
+## Table of Contents
 
 ## ** Features**
 
